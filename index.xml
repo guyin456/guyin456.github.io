@@ -6,35 +6,14 @@
     <description>Recent content on GuYin&#39;s Blog</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 28 Jul 2024 12:07:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guyin456.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Test11</title>
-      <link>https://guyin456.github.io/posts/hello-test11/</link>
-      <pubDate>Sun, 28 Jul 2024 12:07:24 +0800</pubDate>
-      <guid>https://guyin456.github.io/posts/hello-test11/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello Test</title>
-      <link>https://guyin456.github.io/posts/hello-test/</link>
-      <pubDate>Sun, 28 Jul 2024 11:55:49 +0800</pubDate>
-      <guid>https://guyin456.github.io/posts/hello-test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello</title>
-      <link>https://guyin456.github.io/posts/hello/</link>
-      <pubDate>Sun, 28 Jul 2024 11:24:04 +0800</pubDate>
-      <guid>https://guyin456.github.io/posts/hello/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://guyin456.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 28 Jul 2024 10:56:52 +0800</pubDate>
-      <guid>https://guyin456.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <title>MLIR learning</title>
+      <link>https://guyin456.github.io/posts/mlir_learning/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyin456.github.io/posts/mlir_learning/</guid>
+      <description>MLIR学习</description>
     </item>
   </channel>
 </rss>

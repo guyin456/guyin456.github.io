@@ -6,6 +6,28 @@
     <description>Recent content in Tags on GuYin&#39;s Blog</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>zh</language>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://guyin456.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://guyin456.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyin456.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLVM</title>
+      <link>https://guyin456.github.io/tags/llvm/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyin456.github.io/tags/llvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MLIR</title>
+      <link>https://guyin456.github.io/tags/mlir/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyin456.github.io/tags/mlir/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
