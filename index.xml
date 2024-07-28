@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2024 11:55:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 12:07:24 +0800</lastBuildDate>
     <atom:link href="https://guyin456.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Test11</title>
+      <link>https://guyin456.github.io/posts/hello-test11/</link>
+      <pubDate>Sun, 28 Jul 2024 12:07:24 +0800</pubDate>
+      <guid>https://guyin456.github.io/posts/hello-test11/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hello Test</title>
       <link>https://guyin456.github.io/posts/hello-test/</link>
